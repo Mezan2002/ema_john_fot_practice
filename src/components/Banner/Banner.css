@@ -1,0 +1,12 @@
+.bannerContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 100px 20px;
+}
+.bannerImg img {
+  width: 450px;
+  height: 630px;
+  border-radius: 8px;
+  box-shadow: -25px -25px 2px #ffe0b3;
+}
