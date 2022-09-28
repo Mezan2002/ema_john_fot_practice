@@ -1,0 +1,28 @@
+.productsContainer {
+  width: 350px;
+  height: 620px;
+  border: 2px solid #95a0a7;
+  border-radius: 8px;
+  position: relative;
+}
+.productImg img {
+  width: 325px;
+  height: 325px;
+  margin: 12px;
+  border-radius: 8px;
+}
+.productInfo {
+  padding: 0 20px;
+}
+.addToCartBtn button {
+  width: 100%;
+  border: none;
+  border-top: 1px solid #95a0a7;
+  border-radius: 0 0 8px 8px;
+  background-color: #ffe0b3;
+  font-family: "roboto";
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  bottom: 0;
+}
