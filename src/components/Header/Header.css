@@ -1,0 +1,16 @@
+nav {
+  background-color: #1c2b35;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 80px;
+}
+.navLinks a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: white;
+  transition: all 0.4s;
+}
+.navLinks a:hover {
+  color: #ff9900;
+}
