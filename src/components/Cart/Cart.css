@@ -1,0 +1,33 @@
+.cartContainer {
+  position: sticky;
+  top: 0;
+  padding: 50px 20px 0 20px;
+}
+.cartContainer h2 {
+  font-size: 35px;
+}
+.cartContainer h3 {
+  font-size: 30px;
+}
+.cartContainer p {
+  font-size: 25px;
+}
+.clearCartBtn {
+  margin: 20px 0;
+  background-color: red;
+  color: white;
+  width: 100%;
+  padding: 20px 0;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+}
+.orderReviewBtn {
+  background-color: #ff9900;
+  color: white;
+  width: 100%;
+  padding: 20px 0;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+}

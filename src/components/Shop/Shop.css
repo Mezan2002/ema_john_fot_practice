@@ -4,7 +4,9 @@
 }
 
 .orderSummary {
-  background-color: rgb(255, 255, 109);
+  margin-top: 13px;
+  border-radius: 8px;
+  background-color: #ff99004d;
 }
 .products {
   display: grid;
