@@ -8,6 +8,7 @@ const Header = () => {
         <img src={logo} alt="" />
       </div>
       <div className="navLinks">
+        <a href="/home">Home</a>
         <a href="/shop">Shop</a>
         <a href="/order_review">Order Review</a>
         <a href="/inventory">Inventory</a>
